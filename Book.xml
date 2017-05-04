@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+
+
+
+<book idBook="2">
+  <idBook>2</idBook>
+  <title>Harry Potter</title>
+  <author>J K. Rowling</author>
+  <quantity>0</quantity>
+  <price>29.99</price>
+  <genre>SF</genre>
+  <sell>
+  		<idSell>1</idSell>
+  		<sellingDate>2017-01-11</sellingDate>
+  		<quantity>6</quantity>
+  </sell>
+  <sell idSell="2">
+  		<idSell>2</idSell>
+  		<sellingDate>2017-02-13</sellingDate>
+  		<quantity>10</quantity>
+  </sell>
+<sell>
+      <idSell>4</idSell>
+      <sellingDate>2017-01-04</sellingDate>
+      <quantity>10</quantity>
+    </sell>
+  <sell>
+      <idSell>7</idSell>
+      <sellingDate>2017-01-01</sellingDate>
+      <quantity>10</quantity>
+    </sell>
+  </book>
+
+<book idBook="3">
+  <idBook>3</idBook>
+  <title>XPath</title>
+  <author>James</author>
+  <quantity>23</quantity>
+  <price>49.99</price>
+  <genre>IT</genre>
+  	<sell>
+  		<idSell>1</idSell>
+  		<sellingDate>2016-05-10</sellingDate>
+  		<quantity>1</quantity>
+  	</sell>
+</book>
+
+<book idBook="4">
+  <idBook>4</idBook>
+  <title>Learning XML</title>
+  <author>Erik T. Ray</author>
+  <quantity>1993</quantity>
+  <price>39.95</price>
+  <genre>Education</genre>
+  	<sell>
+  		<idSell>1</idSell>
+  		<sellingDate>2017-03-19</sellingDate>
+  		<quantity>5</quantity>
+  	</sell>
+<sell>
+      <idSell>5</idSell>
+      <sellingDate>2017-01-01</sellingDate>
+      <quantity>10</quantity>
+    </sell>
+  </book>
+
+
+
+
+
+
+
+<book>
+    <idBook>8</idBook>
+    <title>Arh</title>
+    <author>Fowler</author>
+    <quantity>0</quantity>
+    <price>40.0</price>
+    <genre>IT</genre>
+  <sell>
+      <idSell>5</idSell>
+      <sellingDate>2017-01-12</sellingDate>
+      <quantity>10</quantity>
+    </sell>
+  </book>
+</books>
