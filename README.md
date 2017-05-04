@@ -1,7 +1,1 @@
-### Grading
-Area           | Grade (0-10)
--------------- | ------------
-Implementation |
-Design         |
-Documentation  |
-Total          |
+# sd-a2-v1
